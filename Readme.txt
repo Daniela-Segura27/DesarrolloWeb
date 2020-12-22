@@ -52,7 +52,7 @@ Links repositorio GitHub.
 	https://github.com/LokoQlia/ProyectoWeb.git
 
 5-	Marcelo Gonzales Mercado
-
+	https://github.com/marcalejandrogm/curso_fullstack/tree/main/Evaluacion_Final
 
 6-	Antón Rubilar Messina:
 	https://github.com/LksDesings/proyectoweb.git
